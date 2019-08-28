@@ -1,5 +1,5 @@
 # ymacro
-map/reduce macro lib for C
+map/reduce macro lib for C. works with lists up to 32 items in length.
 
 ```
 #define INCR(x) (x+1)
